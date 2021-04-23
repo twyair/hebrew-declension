@@ -611,15 +611,6 @@ paradigm_parameters = {
     "b_tale": dict(con_sg="#3", gen_sg="#1", abs_pl="73laQ", con_pl="#1", gen_pl="#1"),
 }
 
-# Vs_yom Vs_bat Vs_ot_neqeva Vs_ish Vs_isha Vs_ir(/s_rosh) Vs_acot Vs_bayit Vs_ben Vs_shem
-# Vs_ama Vs_em Vs_tsel Vs_dyo Vs_tsipor Vs_matoq
-# Xs_snai(43*) s_ktav? Vs_tale Xs_esh?(171*) Vs_lavi
-# Xs_tavla Vs_braxa Xs_arye(use b_simla) s_qatse(~qtsawot)
-# s_tolaat? s_kneset? s_gawen? s_mayim? s_gay
-
-# "b_qatse": dict(con_sg="q3Z", gen_sg="?", abs_pl="q3Zaw", con_pl="q3Z", gen_pl="?"),  # FIXME
-# qatse,221*,qaZE!H-qaZe!H-?-q3ZawW!t-q3ZW!t-q3ZawWtAy,qaZ,#1,#1,q3Zaw,q3Z,#1,FALSE,E!H,W!t,
-
 SINGULAR_SUFFIX = ["e!H", "a!H", "E!H", "Et", "At", "i!t", "u!t", "A!Ny"]
 
 
